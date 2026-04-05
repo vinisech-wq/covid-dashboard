@@ -27,3 +27,5 @@ All output charts are available in the `/outputs` folder.
 1. Open `notebooks/covid_analysis.ipynb` in Google Colab
 2. Upload the CSV files from `/dataset` folder
 3. Run all cells
+## Dashboard link - https://public.tableau.com/app/profile/vinitha.sekar/viz/Book1_17754027196920/Dashboard1?publish=yes
+https://public.tableau.com/app/profile/vinitha.sekar/viz/Book1_17754027196920/Dashboard1
